@@ -1,7 +1,5 @@
 import axios from "axios";
 import React, { useEffect, useState, useRef } from "react";
-import Col from "react-bootstrap/Col";
-import Row from "react-bootstrap/Row";
 import { io } from "socket.io-client";
 import "bootstrap/dist/css/bootstrap.min.css";
 import LiveChat from "./liveChat";
