@@ -1,10 +1,11 @@
 import './App.css';
-import Orders from './components/Orders';
+import Chat from './componenets/main';
+
 
 function App() {
   return (
     <div className="App">
-      <Orders />
+      <Chat />
     </div>
   );
 }
